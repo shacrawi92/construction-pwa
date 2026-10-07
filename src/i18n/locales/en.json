@@ -1,0 +1,92 @@
+{
+  "app_name": "Sunset Construction SaaS",
+  "brand_tagline": "Next-Gen Construction Estimating & Field Operations SaaS",
+  "nav": {
+    "home":      "Home",
+    "features":  "Features",
+    "pricing":   "Pricing",
+    "calculator":"Estimator",
+    "admin":     "Foreman Portal",
+    "dashboard": "Dashboard",
+    "projects":  "Projects",
+    "materials": "Materials",
+    "logs":      "Labor Logs",
+    "profile":   "Profile"
+  },
+  "auth": {
+    "login":    "Sign In",
+    "logout":   "Sign Out",
+    "email":    "Email Address",
+    "password": "Password",
+    "signing_in": "Signing in…"
+  },
+  "project": {
+    "title":       "Projects",
+    "new":         "New Project",
+    "status":      "Status",
+    "client":      "Client",
+    "location":    "Location",
+    "start":       "Start Date",
+    "end":         "End Date",
+    "contract":    "Contract Value",
+    "progress":    "Progress",
+    "draft":       "Draft",
+    "active":      "Active",
+    "on_hold":     "On Hold",
+    "completed":   "Completed",
+    "cancelled":   "Cancelled"
+  },
+  "estimation": {
+    "title":       "Estimations",
+    "new":         "New Estimation",
+    "from_template": "From Template",
+    "blank":       "Blank",
+    "total":       "Total (ETB)",
+    "contingency": "Contingency",
+    "approve":     "Approve",
+    "export_pdf":  "Export PDF",
+    "export_excel":"Export Excel",
+    "save_template":"Save as Template"
+  },
+  "material": {
+    "title":   "Materials",
+    "request": "Request Materials",
+    "stock":   "Stock",
+    "low_stock":"Low Stock",
+    "pending": "Pending",
+    "approved":"Approved",
+    "rejected":"Rejected",
+    "partial": "Partial"
+  },
+  "labor": {
+    "title":       "Labor Logs",
+    "new":         "Log Labor",
+    "worker":      "Worker Name",
+    "date":        "Date",
+    "hours":       "Hours",
+    "rate":        "Daily Rate (ETB)",
+    "cost":        "Total Cost (ETB)",
+    "work_type":   "Work Type"
+  },
+  "budget": {
+    "title":      "Budget",
+    "allocated":  "Allocated",
+    "spent":      "Spent",
+    "remaining":  "Remaining",
+    "burn_rate":  "Burn Rate / Day",
+    "categories": "Categories"
+  },
+  "common": {
+    "save":     "Save",
+    "cancel":   "Cancel",
+    "delete":   "Delete",
+    "edit":     "Edit",
+    "search":   "Search…",
+    "loading":  "Loading…",
+    "no_data":  "No data found",
+    "offline":  "You are offline — changes will sync when connected",
+    "syncing":  "Syncing…",
+    "birr":     "ETB",
+    "view_all": "View All"
+  }
+}

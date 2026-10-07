@@ -1,0 +1,92 @@
+{
+  "app_name": "ሳንሴት የግንባታ ሲስተም (Sunset SaaS)",
+  "brand_tagline": "ዘመናዊ የግንባታ ወጪ ግምት እና የመስክ አስተዳደር ፕላትፎርም",
+  "nav": {
+    "home":      "ዋና ገጽ",
+    "features":  "ባህሪያት",
+    "pricing":   "ዋጋዎች",
+    "calculator":"የወጪ አስሊ",
+    "admin":     "የፎርማን መግቢያ",
+    "dashboard": "ዳሽቦርድ",
+    "projects":  "ፕሮጀክቶች",
+    "materials": "ቁሳቁሶች",
+    "logs":      "የሥራ ምዝግብ",
+    "profile":   "መግቢያ"
+  },
+  "auth": {
+    "login":     "ይግቡ",
+    "logout":    "ይውጡ",
+    "email":     "ኢሜይል አድራሻ",
+    "password":  "ይለፍ ቃል",
+    "signing_in":"እየገባ ነው…"
+  },
+  "project": {
+    "title":     "ፕሮጀክቶች",
+    "new":       "አዲስ ፕሮጀክት",
+    "status":    "ሁኔታ",
+    "client":    "ደንበኛ",
+    "location":  "ቦታ",
+    "start":     "መጀመሪያ ቀን",
+    "end":       "ማጠናቀቂያ ቀን",
+    "contract":  "የኮንትራት ዋጋ",
+    "progress":  "ሂደት",
+    "draft":     "ረቂቅ",
+    "active":    "ንቁ",
+    "on_hold":   "ቆሟል",
+    "completed": "ተጠናቀቀ",
+    "cancelled": "ተሰርዟል"
+  },
+  "estimation": {
+    "title":         "ወጪ ግምቶች",
+    "new":           "አዲስ ግምት",
+    "from_template": "ከቅጽ",
+    "blank":         "ባዶ",
+    "total":         "ጠቅላላ (ብር)",
+    "contingency":   "ድንገተኛ ወጪ",
+    "approve":       "አጽድቅ",
+    "export_pdf":    "PDF ላክ",
+    "export_excel":  "Excel ላክ",
+    "save_template": "እንደ ቅጽ አስቀምጥ"
+  },
+  "material": {
+    "title":    "ቁሳቁሶች",
+    "request":  "ቁሳቁስ ጠይቅ",
+    "stock":    "ክምችት",
+    "low_stock":"ዝቅተኛ ክምችት",
+    "pending":  "በጥበቃ ላይ",
+    "approved": "ፀደቀ",
+    "rejected": "ተቀባይነት አልተሰጠም",
+    "partial":  "ከፊል"
+  },
+  "labor": {
+    "title":     "የሥራ ምዝግብ",
+    "new":       "ሥራ ምዝጋቢ",
+    "worker":    "የሠራተኛ ስም",
+    "date":      "ቀን",
+    "hours":     "ሰዓቶች",
+    "rate":      "ዕለታዊ ደሞዝ (ብር)",
+    "cost":      "ጠቅላላ ዋጋ (ብር)",
+    "work_type": "የሥራ ዓይነት"
+  },
+  "budget": {
+    "title":      "በጀት",
+    "allocated":  "የተመደበ",
+    "spent":      "የወጣ",
+    "remaining":  "የቀረ",
+    "burn_rate":  "የዕለት ወጪ",
+    "categories": "ምድቦች"
+  },
+  "common": {
+    "save":    "አስቀምጥ",
+    "cancel":  "ሰርዝ",
+    "delete":  "አጥፋ",
+    "edit":    "አርትዕ",
+    "search":  "ፈልግ…",
+    "loading": "እየጫነ ነው…",
+    "no_data": "ምንም ውሂብ አልተገኘም",
+    "offline": "ከኢንተርኔት ተቋርጠዋል — ሲገናኙ ያመሳስላል",
+    "syncing": "እያመሳሰለ ነው…",
+    "birr":    "ብር",
+    "view_all":"ሁሉንም ይመልከቱ"
+  }
+}

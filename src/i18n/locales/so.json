@@ -1,0 +1,92 @@
+{
+  "app_name": "Sunset Construction SaaS",
+  "brand_tagline": "Qiyaasta Dhismaha Casriga ah & Nidaamka Maamulka Goobta",
+  "nav": {
+    "home":      "Hoyga",
+    "features":  "Astaamaha",
+    "pricing":   "Qiimaha",
+    "calculator":"Xisaabiyaha",
+    "admin":     "Albaabka Kormeeraha",
+    "dashboard": "Guriga",
+    "projects":  "Mashruucyada",
+    "materials": "Maaddooyinka",
+    "logs":      "Shaqada",
+    "profile":   "Profaylka"
+  },
+  "auth": {
+    "login":     "Gal",
+    "logout":    "Ka bax",
+    "email":     "Cinwaanka Emailka",
+    "password":  "Furaha sirta",
+    "signing_in":"Galeynaayo…"
+  },
+  "project": {
+    "title":     "Mashruucyada",
+    "new":       "Mashruuc Cusub",
+    "status":    "Xaaladda",
+    "client":    "Macmiilka",
+    "location":  "Goobta",
+    "start":     "Taariikhda Bilowga",
+    "end":       "Taariikhda Dhamaadka",
+    "contract":  "Qiimaha Heshiiska",
+    "progress":  "Horumarinta",
+    "draft":     "Qoraal Hore",
+    "active":    "Firfircoon",
+    "on_hold":   "La joojiyay",
+    "completed": "La dhamaystay",
+    "cancelled": "La joojiyay"
+  },
+  "estimation": {
+    "title":         "Qiyaasaha",
+    "new":           "Qiyaas Cusub",
+    "from_template": "Qaabka",
+    "blank":         "Madhan",
+    "total":         "Wadarta (Birr)",
+    "contingency":   "Khidmad Gaar ah",
+    "approve":       "Ogolow",
+    "export_pdf":    "PDF soo bixi",
+    "export_excel":  "Excel soo bixi",
+    "save_template": "Ku kaydi Qaabka"
+  },
+  "material": {
+    "title":    "Maaddooyinka",
+    "request":  "Codsashada Maaddooyinka",
+    "stock":    "Kaydka",
+    "low_stock":"Kaydi Hooseeya",
+    "pending":  "Sugaya",
+    "approved": "La ogolaaday",
+    "rejected": "La diiday",
+    "partial":  "Qayb"
+  },
+  "labor": {
+    "title":     "Diiwaanka Shaqada",
+    "new":       "Diiwaangeli",
+    "worker":    "Magaca Shaqaalaha",
+    "date":      "Taariikhda",
+    "hours":     "Saacadaha",
+    "rate":      "Ujuurada Maalinlaha (Birr)",
+    "cost":      "Wadarta Kharashka (Birr)",
+    "work_type": "Nooca Shaqada"
+  },
+  "budget": {
+    "title":      "Miisaaniyada",
+    "allocated":  "La kala saaray",
+    "spent":      "La bixiyay",
+    "remaining":  "Haray",
+    "burn_rate":  "Kharashka Maalinlaha",
+    "categories": "Qaybaha"
+  },
+  "common": {
+    "save":    "Kaydi",
+    "cancel":  "Jooji",
+    "delete":  "Tirtir",
+    "edit":    "Wax ka badal",
+    "search":  "Raadi…",
+    "loading": "Loading…",
+    "no_data": "Xog ma jirto",
+    "offline": "Internet ma jirto — waa la waafajin doonaa marka la xidho",
+    "syncing": "Waafajinaya…",
+    "birr":    "Birr",
+    "view_all":"Dhan eeg"
+  }
+}
